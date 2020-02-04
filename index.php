@@ -32,7 +32,7 @@ include __DIR__ . "/config/include.php";
 								<img src="<?php echo LOCATION_FILE ?>/images/home/typo_about.png" alt="">
 							</div>
 							<div class="txt">
-								<p>Lấy cảm hứng từ mong muốn mang đến những sản phẩm mang tính độc đáo cho ngôi nhà của bạn. NGÔI NHÀ ĐÔI đã và đang nỗ lực không ngừng nhằm đưa đến tay khách hàng những sản phẩm thật sự độc đáo đầy tính thân thiện cho không gian sống của bạn thêm phong phú. Đến với NGÔI NHÀ ĐÔI chúng tôi cam kết chất lượng sản phẩm cùng sự thỏa mãn của khách hàng là mục tiêu hàng đầu của chúng tôi.</p>
+								<p>Handicraft production and service HoNaico-oprative was established in 2004 and is the member of Viet Nam Co-operative Union and Viet Nam chamber of Commerce and industry (VCCI).We specialize in producing art handicraft products . Which made of : rattan , bamboo , leaves , seagrass , waterhyacinth and poly rattan furnitures indoor and outdoor.</p>
 							</div>
 							<div class="btn_group">
 								<a href="#" class="btn btn__basic">View more</a>
