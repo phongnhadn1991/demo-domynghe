@@ -10,8 +10,9 @@ $(function () {
 		fade: false,
 		autoplay: true,
 		pauseOnHover: false,
-		infinite: false,
+		infinite: true,
 		speed: 1000,
+		autoplaySpeed: 5000,
 		lazyLoad: 'ondemand'
 	});
 

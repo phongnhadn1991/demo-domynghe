@@ -17,10 +17,10 @@ include __DIR__ . "/config/include.php";
 			<div class="c_slider">
 				<div class="box_slider js_slider_main">
 					<div class="box">
-						<img data-lazy="<?php echo LOCATION_FILE ?>/images/home-slider-1.jpg" alt="images">
+						<img src="<?php echo LOCATION_FILE ?>/images/home-slider-1.jpg" alt="images">
 					</div>
 					<div class="box">
-						<img data-lazy="<?php echo LOCATION_FILE ?>/images/home-slider-1.jpg" alt="images">
+						<img src="<?php echo LOCATION_FILE ?>/images/home-slider-1.jpg" alt="images">
 					</div>
 				</div>
 			</div><!-- /.c_slider -->
