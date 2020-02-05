@@ -24,7 +24,7 @@ include __DIR__ . "/config/include.php";
 					</div>
 				</div>
 			</div><!-- /.c_slider -->
-			<div class="c_about">
+			<div class="c_about margin-pc__bottom--60 margin-sp__bottom--30">
 				<div class="container">
 					<div class="c_about__wrap">
 						<div class="c_about__text">
@@ -44,7 +44,7 @@ include __DIR__ . "/config/include.php";
 					</div>
 				</div>
 			</div><!-- /.c_about -->
-			<div class="c_product">
+			<div class="c_product margin-pc__bottom--40 margin-sp__bottom--20">
 				<div class="container">
 					<h2 class="st_title line center">
 						<span class="small">The best products</span>
@@ -180,6 +180,154 @@ include __DIR__ . "/config/include.php";
 					</div>
 				</div>
 			</div><!-- /.c_product -->
+
+			<div class="c_news margin-pc__bottom--60 margin-sp__bottom--30">
+				<div class="container">
+					<h2 class="st_title line center">
+						<span class="small">Updated news</span>
+						<span class="big">Lates News</span>
+					</h2>
+					<div class="list_news col_2">
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news1.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news2.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news1.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news2.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news1.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<div class="item__thumb">
+									<div class="thumb thumb--4x3"><img src="<?php echo LOCATION_FILE ?>/images/home/img_news2.jpg" alt=""></div>
+								</div>
+								<div class="item__text">
+									<h3>
+										<p>Title news info Handicraft production</p>
+									</h3>
+									<p class="date_post"><i class="ion-android-time"></i> <span>5/2/2020</span></p>
+									<p class="txt_des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi consequuntur aspernatur aperiam cum officiis excepturi.</p>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div><!-- /.c_news -->
+
+			<div class="c_partners">
+				<div class="container">
+					<h2 class="st_title line center">
+						<span class="small">Cooperation and development</span>
+						<span class="big">Our Partner</span>
+					</h2>
+					<div class="list_partners">
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner1.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner2.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner1.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner2.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner1.png" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="item__thumb">
+								<div class="thumb thumb--5x3">
+									<img src="<?php echo LOCATION_FILE ?>/images/home/img_partner2.png" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!-- /.c_partners -->
 		</div><!-- /#contents -->
 		<?php include LOCATION_ROOT_DIR . "/templates/footer.php"; ?>
 	</div>

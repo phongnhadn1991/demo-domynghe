@@ -286,6 +286,30 @@
   &__auto {
     margin: auto;
   }
+  @include mq('pc_tab') {
+    &-pc {
+      &__bottom {
+        &--60 {
+          margin-bottom: px_em( 60 );
+        }
+        &--40 {
+          margin-bottom: px_em( 40 );
+        }
+      }
+    }
+  }
+  @include mq('sp') {
+    &-sp {
+      &__bottom {
+        &--20 {
+          margin-bottom: px_em( 20 );
+        }
+        &--30 {
+          margin-bottom: px_em( 30 );
+        }
+      }
+    }
+  }
   &__bottom {
     &--40 {
       margin-bottom: 40px;
@@ -406,6 +430,9 @@
   }
   &--4x3 {
     padding-bottom: 67%;
+  }
+  &--5x3 {
+    padding-bottom: 40%;
   }
   &--2x1 {
     padding-bottom: 20%;

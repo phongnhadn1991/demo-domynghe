@@ -154,6 +154,10 @@ $c_Gold: #a08b5b;
   @return $width / $parentWidth * 100%;
 }
 
+@function px_em($val_px) {
+  @return ($val_px / 15) * 1em;
+}
+
 //----------------------------------------------//
 // *Placeholder									//
 //----------------------------------------------//
